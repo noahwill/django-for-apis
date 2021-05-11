@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="availability-grpc-bindings" />
+            <item index="1" class="java.lang.String" itemvalue="m2crypto" />
+            <item index="2" class="java.lang.String" itemvalue="order_service_client" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="4" class="java.lang.String" itemvalue="auth0-python" />
+            <item index="5" class="java.lang.String" itemvalue="ReservationIntegrationService-grpc-bindings" />
+            <item index="6" class="java.lang.String" itemvalue="grpcio" />
+            <item index="7" class="java.lang.String" itemvalue="laz-rates" />
+            <item index="8" class="java.lang.String" itemvalue="spothero_protobuf" />
+            <item index="9" class="java.lang.String" itemvalue="attrs" />
+            <item index="10" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
